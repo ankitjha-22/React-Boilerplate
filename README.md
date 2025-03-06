@@ -1,2 +1,3 @@
-# TS-Fundamentals
-The repository contains the fundamentals of TypeScript
+# React-BoilerPlate
+
+The repository contains the React-BoilerPlate For Quick Development Setup
